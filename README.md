@@ -2,7 +2,7 @@
 
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162244067.jpg" width="250"/>
 
-## 지옥스터디 : DDD START!
+## 지옥스터디 : 몽고DB 완벽 가이드
 - 몽고DB 완벽 가이드
 - 리볼빙, 세미나 스터디
 - 매주 월요일 오후 9시 스터디
